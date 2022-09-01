@@ -8,7 +8,7 @@
     "start": "node app.js",
     "dev": "nodemon ./app.js"
   },
-  "author": "\"snehil khatri\",",
+  "author": "Snehil Khatri",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
