@@ -1,9 +1,13 @@
 {
   "name": "nagarro_internship_project2",
   "version": "1.0.0",
-  "description": "twitter clone",
+  "description": "E-commerce clone",
   "main": "app.js",
-  "scripts": {
+  "engines": {
+    "node": "14.17.0",
+    "npm": "6.14.13"
+  },
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
     "dev": "nodemon ./app.js"

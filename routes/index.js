@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const Product = require('../models/product');
 var Cart=require('../models/cart');
-const { isLoggedIn }=require('../middlewre')
+const { isLoggedIn }=require('../middleware')
 
 /* GET home page. */
 //  router.get('/', function(req, res, next) {
